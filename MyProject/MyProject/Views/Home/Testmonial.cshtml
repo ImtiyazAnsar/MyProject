@@ -1,0 +1,159 @@
+﻿
+@{
+    ViewBag.Title = "Testmonial";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+    <style>
+        section {
+            padding-top: 100px;
+            padding-bottom: 100px;
+        }
+
+        .quote {
+            color: rgba(0,0,0,.1);
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        /*-------------------------------*/
+        /*    Carousel Fade Transition   */
+        /*-------------------------------*/
+
+        #fade-quote-carousel.carousel {
+            padding-bottom: 60px;
+        }
+
+            #fade-quote-carousel.carousel .carousel-inner .item {
+                opacity: 0;
+                -webkit-transition-property: opacity;
+                -ms-transition-property: opacity;
+                transition-property: opacity;
+            }
+
+            #fade-quote-carousel.carousel .carousel-inner .active {
+                opacity: 1;
+                -webkit-transition-property: opacity;
+                -ms-transition-property: opacity;
+                transition-property: opacity;
+            }
+
+            #fade-quote-carousel.carousel .carousel-indicators {
+                bottom: 10px;
+            }
+
+                #fade-quote-carousel.carousel .carousel-indicators > li {
+                    background-color: #e84a64;
+                    border: none;
+                }
+
+        #fade-quote-carousel blockquote {
+            text-align: center;
+            border: none;
+        }
+
+        #fade-quote-carousel .profile-circle {
+            width: 100px;
+            height: 100px;
+            margin: 0 auto;
+            border-radius: 100px;
+        }
+
+        #imtu {
+            background-image: url(lab.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;
+            height: 600px;
+            width: 100%;
+        }
+
+    </style>
+
+
+
+    <div class="container-fluid">
+
+        <div class="row" style="margin-top: -3%">
+
+            <div id="imtu">
+                <h2 style="text-align: center">Some Famous Scientist Name </h2><hr>
+                <section id="carousel">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-8 col-md-offset-2">
+                                <div class="quote"><i class="fa fa-quote-left fa-4x"></i></div>
+                                <div class="carousel slide" id="fade-quote-carousel" data-ride="carousel" data-interval="3000">
+                                    <!-- Carousel indicators -->
+                                    <ol class="carousel-indicators">
+                                        <li data-target="#fade-quote-carousel" data-slide-to="0"></li>
+                                        <li data-target="#fade-quote-carousel" data-slide-to="1"></li>
+                                        <li data-target="#fade-quote-carousel" data-slide-to="2" class="active"></li>
+                                        <li data-target="#fade-quote-carousel" data-slide-to="3"></li>
+                                        <li data-target="#fade-quote-carousel" data-slide-to="4"></li>
+                                        <li data-target="#fade-quote-carousel" data-slide-to="5"></li>
+                                    </ol>
+                                    <!-- Carousel items -->
+                                    <div class="carousel-inner">
+                                        <div class="item">
+                                            <div class="profile-circle" style="background-color: rgba(0,0,0,.2);">
+                                                <img src="nutron.jpg" class="img-circle" style="height: 100px; width: 100px;">
+                                            </div>
+                                            <blockquote>
+                                                <p>Sir Isaac Newton PRS was an English mathematician, physicist, astronomer, alchemist, theologian, and author widely recognised as one of the greatest mathematicians and physicists of all time and among the most influential scientists. He was a key figure in the philosophical revolution known as the Enlightenment. </p>
+                                            </blockquote>
+                                        </div>
+                                        <div class="item">
+                                            <div class="profile-circle" style="background-color: rgba(77,5,51,.2);">
+                                                <img src="proton.jpg" class="img-circle" style="height: 100px; width: 100px;">
+                                            </div>
+                                            <blockquote>
+                                                <p>Who Discovered Protons? The discovery of the proton is credited to Ernest Rutherford, who proved that the nucleus of the hydrogen atom (i.e. a proton) is present in the nuclei of all other atoms in the year 1917.</p>
+                                            </blockquote>
+                                        </div>
+                                        <div class="active item">
+                                            <div class="profile-circle" style="background-color: rgba(145,169,216,.2);">
+                                                <img src="electron.jpg" class="img-circle" style="height: 100px; width: 100px;">
+                                            </div>
+                                            <blockquote>
+                                                <p> During the 1880s and '90s scientists searched cathode rays for the carrier of the electrical properties in matter. Their work culminated in the discovery by English physicist J.J. Thomson of the electron in 1897.</p>
+                                            </blockquote>
+                                        </div>
+                                        <div class="item">
+                                            <div class="profile-circle" style="background-color: rgba(77,5,51,.2);">
+                                                <img src="download.jpg" class="img-circle" style="height: 100px; width: 100px;">
+                                            </div>
+                                            <blockquote>
+                                                <p>Walmart Inc. is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores from the United States, headquartered in Bentonville, Arkansas.</p>
+                                            </blockquote>
+                                        </div>
+                                        <div class="item">
+                                            <div class="profile-circle" style="background-color: rgba(77,5,51,.2);">
+                                                <img src="download.jpg" class="img-circle" style="height: 100px; width: 100px;">
+                                            </div>
+                                            <blockquote>
+                                                <p>On February 4, 2004, a Harvard sophomore named Mark Zuckerberg launches The Facebook, a social media website he had built in order to connect Harvard students with one another. By the next day, over a thousand people had registered, and that was only the beginning.</p>
+                                            </blockquote>
+                                        </div>
+                                        <div class="item">
+                                            <div class="profile-circle" style="background-color: rgba(77,5,51,.2);">
+                                                <img src="networ.jpg" class="img-circle" style="height: 100px; width: 100px;">
+                                            </div>
+                                            <blockquote>
+                                                <p>WhatsApp was founded by Jan Koum and Brian Acton who had previously spent 20 years combined at Yahoo. WhatsApp joined Facebook in 2014, but continues to operate as a separate app with a laser focus on building a messaging service that works fast and reliably anywhere in the world.</p>
+                                            </blockquote>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+            </div>
+
+        </div>
+    </div>
+

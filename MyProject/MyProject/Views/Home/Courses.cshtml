@@ -1,0 +1,178 @@
+﻿
+@{
+    ViewBag.Title = "Courses";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>
+<script src="~/Scripts/Common.js"></script>
+<script src="~/Scripts/File.js"></script>
+
+<style>
+    #BTN{
+        text-align:center;
+        margin-left:25%;
+    }
+</style>
+
+
+<!-- Categories Start -->
+<div class="container-xxl py-5 category">
+    <div class="container">
+        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+            <h6 class="section-title bg-white text-center text-primary px-3"></h6>
+            <h1 class="mb-5">Courses Categories</h1>
+        </div>
+        <div class="row g-3">
+            <div class="col-lg-7 col-md-6">
+                <div class="row g-3">
+                    <div class="col-lg-12 col-md-12 wow zoomIn" data-wow-delay="0.1s">
+                        <a class="position-relative d-block overflow-hidden" href="">
+                            
+                            <img src="~/Content/pics/cat-1.jpg" alt="" style="height:100%;width:100%;" />
+                            <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin: 1px;">
+                                <h5 class="m-0">Web Design</h5>
+                                <small class="text-primary">49 Courses</small>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-6 col-md-12 wow zoomIn" data-wow-delay="0.3s"><br />
+                        <a class="position-relative d-block overflow-hidden" href="">
+            
+                            <img src="~/Content/pics/cat-2.jpg" alt="" style="height:100%;width:100%;" />
+                            <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin: 1px;">
+                                <h5 class="m-0">Graphic Design</h5>
+                                <small class="text-primary">49 Courses</small>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-6 col-md-12 wow zoomIn" data-wow-delay="0.5s">
+                        <a class="position-relative d-block overflow-hidden" href="">
+                            <img class="img-fluid" src="img/cat-3.jpg" alt="">
+                            <img src="~/Content/pics/cat-3.jpg" alt="" style="height:100%;width:100%;"/>
+                            <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin: 1px;">
+                                <h5 class="m-0">Video Editing</h5>
+                                <small class="text-primary">49 Courses</small>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-5 col-md-6 wow zoomIn" data-wow-delay="0.7s" style="min-height: 350px;">
+                <a class="position-relative d-block h-100 overflow-hidden" href="">
+                    <img class="img-fluid position-absolute w-100 h-100" src="img/cat-4.jpg" alt="" style="object-fit: cover;">
+                    <img src="~/Content/pics/cat-4.jpg" alt="" style="height:100%;width:100%;object-fit: cover;"/>
+                    <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin:  1px;">
+                        <h5 class="m-0">Online Marketing</h5>
+                        <small class="text-primary">49 Courses</small>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Categories Start -->
+
+   <!-- Courses Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+            <h6 class="section-title bg-white text-center text-primary px-3"></h6>
+            <h1 class="mb-5">Popular Courses</h1>
+        </div>
+        <div class="row g-4 justify-content-center">
+            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s" style="border-radius:5px;border:1px solid skyblue">
+                <div class="course-item bg-light">
+                    <div class="position-relative overflow-hidden">
+                       
+                        <img src="~/Content/pics/course-1.jpg" alt="" style="height:100%;width:100%" />
+                        <div class="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
+                            &nbsp;&nbsp; &nbsp;&nbsp;<a href="#" class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end" style="border-radius: 30px 0 0 30px;" id="BTN">Read More</a>
+                            <a href="#" class="flex-shrink-0 btn btn-sm btn-primary px-3" style="border-radius: 0 30px 30px 0;" >Apply Now</a>
+                        </div>
+                    </div>
+                    <div class="text-center p-4 pb-0">
+                        <h3 class="mb-0" style="color:black">15000.00</h3>
+                        <div class="mb-3">
+                            <small class="fa fa-star text-primary"></small>
+                            <small class="fa fa-star text-primary"></small>
+                            <small class="fa fa-star text-primary"></small>
+                            <small class="fa fa-star text-primary"></small>
+                            <small class="fa fa-star text-primary"></small>
+                            <small>(123)</small>
+                        </div>
+                        <h3 class="mb-4" style="color:black"> PHP Development Course for Beginners</h3>
+                    </div>
+                    <div style="margin-left:30%;">
+                        <small class="flex-fill text-center py-2" style="font-size:15px"><i class="fa fa-users text-primary me-2" style="font-size:20px;"></i>&nbsp;50 Students Seat Only</small>
+                    </div>
+                    <br />
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s" style="border-radius:5px;border:1px solid skyblue">
+                <div class="course-item bg-light">
+                    <div class="position-relative overflow-hidden">
+                      
+                        <img src="~/Content/pics/course-2.jpg" alt="" style="height:100%;width:100%" />
+                        <div class="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
+                            <a href="#" class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end" style="border-radius: 30px 0 0 30px;" id="BTN">Read More</a>
+                            <a href="#" class="flex-shrink-0 btn btn-sm btn-primary px-3" style="border-radius: 0 30px 30px 0;">Join Now</a>
+                        </div>
+                    </div>
+                    <div class="text-center p-4 pb-0">
+                        <h3 class="mb-0"  style="color:black">18000.00</h3>
+                        <div class="mb-3">
+                            <small class="fa fa-star text-primary"></small>
+                            <small class="fa fa-star text-primary"></small>
+                            <small class="fa fa-star text-primary"></small>
+                            <small class="fa fa-star text-primary"></small>
+                            <small class="fa fa-star text-primary"></small>
+                            <small>(123)</small>
+                        </div>
+                        <h3 class="mb-4" style="color:black"> Java Development Course for Beginners</h3>
+                    </div>
+                    <div style="margin-left:30%;">
+                        <small class="flex-fill text-center py-2" style="font-size:15px"><i class="fa fa-users text-primary me-2" style="font-size:20px;"></i>&nbsp;50 Students Seat Only</small>
+
+                    </div>
+                    <br />
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s" style="border-radius:5px;border:1px solid skyblue">
+                <div class="course-item bg-light">
+                    <div class="position-relative overflow-hidden">
+                      
+                        <img src="~/Content/pics/course-3.jpg" alt="" style="height:100%;width:100%" />
+                        <div class="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
+                            <a href="#" class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end" style="border-radius: 30px 0 0 30px;" id="BTN">Read More</a>
+                            <a href="#" class="flex-shrink-0 btn btn-sm btn-primary px-3" style="border-radius: 0 30px 30px 0;">Join Now</a>
+                        </div>
+                    </div>
+                    <div class="text-center p-4 pb-0">
+                        <h3 class="mb-0"  style="color:black">22000.00</h3>
+                        <div class="mb-3">
+                            <small class="fa fa-star text-primary"></small>
+                            <small class="fa fa-star text-primary"></small>
+                            <small class="fa fa-star text-primary"></small>
+                            <small class="fa fa-star text-primary"></small>
+                            <small class="fa fa-star text-primary"></small>
+                            <small>(123)</small>
+                        </div>
+                        <h3 class="mb-4" style="color:black;">Asp.net MVC Development Course for Beginners</h3>
+                    </div>
+                    <div style="margin-left:30%;">
+                        <small class="flex-fill text-center py-2" style="font-size:15px"><i class="fa fa-users text-primary me-2" style="font-size:20px;"></i>&nbsp;50 Students Seat Only</small>
+
+                     </div>
+                    <br />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Courses End -->
+
+

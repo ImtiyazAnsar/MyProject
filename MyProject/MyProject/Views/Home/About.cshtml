@@ -1,0 +1,340 @@
+﻿
+@{
+    ViewBag.Title = "About";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+    
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>
+<script src="~/Scripts/Common.js"></script>
+<script src="~/Scripts/File.js"></script>
+
+<style>
+    a, a:hover, a:focus, a:active {
+        text-decoration: none;
+        outline: none;
+    }
+
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+
+    .section_all {
+        position: relative;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 100vh;
+    }
+
+    .section-title {
+        font-weight: 700;
+        text-transform: capitalize;
+        letter-spacing: 1px;
+    }
+
+    .section-subtitle {
+        letter-spacing: 0.4px;
+        line-height: 28px;
+        max-width: 550px;
+    }
+
+    .section-title-border {
+        background-color: #000;
+        height: 1 3px;
+        width: 44px;
+    }
+
+    .section-title-border-white {
+        background-color: #fff;
+        height: 2px;
+        width: 100px;
+    }
+
+
+    .about_icon i {
+        font-size: 22px;
+        height: 65px;
+        width: 65px;
+        line-height: 65px;
+        display: inline-block;
+        background: #fff;
+        border-radius: 35px;
+        color: green;
+        ;
+        box-shadow: 0 8px 20px -2px rgba(158, 152, 153, 0.5);
+    }
+    .about_icon span {
+        position: relative;
+        top: -10px;
+    }
+
+    .about_content_box_all {
+        padding: 28px;
+    }
+
+     .quote {
+            color: rgba(0,0,0,.1);
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        /*-------------------------------*/
+        /*    Carousel Fade Transition   */
+        /*-------------------------------*/
+
+        #fade-quote-carousel.carousel {
+            padding-bottom: 60px;
+        }
+
+            #fade-quote-carousel.carousel .carousel-inner .item {
+                opacity: 0;
+                -webkit-transition-property: opacity;
+                -ms-transition-property: opacity;
+                transition-property: opacity;
+            }
+
+            #fade-quote-carousel.carousel .carousel-inner .active {
+                opacity: 1;
+                -webkit-transition-property: opacity;
+                -ms-transition-property: opacity;
+                transition-property: opacity;
+            }
+
+            #fade-quote-carousel.carousel .carousel-indicators {
+                bottom: 10px;
+            }
+
+                #fade-quote-carousel.carousel .carousel-indicators > li {
+                    background-color: #e84a64;
+                    border: none;
+                }
+
+        #fade-quote-carousel blockquote {
+            text-align: center;
+            border: none;
+        }
+
+        #fade-quote-carousel .profile-circle {
+            width: 100px;
+            height: 100px;
+            margin: 0 auto;
+            border-radius: 100px;
+        }
+
+    #imtu{
+        
+        /*background-image: url('../../Content/pics/course-3.jpg');*/
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 100%;
+        width: 100%;
+    }
+
+</style>
+
+<div class="container-fluid">
+
+    <div class="row" style="margin-top: -3%">
+
+        <div id="imtu">
+            <h2 style="text-align: center">Some Famous Scientist Name </h2>
+            <section id="carousel">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8 col-md-offset-2">
+                <div class="quote"><i class="fa fa-quote-left fa-4x"></i></div>
+                <div class="carousel slide" id="fade-quote-carousel" data-ride="carousel" data-interval="3000">
+                    <!-- Carousel indicators -->
+                    <ol class="carousel-indicators">
+                        <li data-target="#fade-quote-carousel" data-slide-to="0"></li>
+                        <li data-target="#fade-quote-carousel" data-slide-to="1"></li>
+                        <li data-target="#fade-quote-carousel" data-slide-to="2" class="active"></li>
+                        <li data-target="#fade-quote-carousel" data-slide-to="3"></li>
+                        <li data-target="#fade-quote-carousel" data-slide-to="4"></li>
+                        <li data-target="#fade-quote-carousel" data-slide-to="5"></li>
+                    </ol>
+                    <!-- Carousel items -->
+                    <div class="carousel-inner">
+                        <div class="active item">
+                            <div class="profile-circle" style="background-color: rgba(0,0,0,.2);">
+                                <img src="~/Content/pics/cat-1.jpg" class="img-circle" style="height: 100px; width: 100px;"/>
+                            </div>
+                            <blockquote>
+                                <p>Sir Isaac Newton PRS was an English mathematician, physicist, astronomer, alchemist, theologian, and author widely recognised as one of the greatest mathematicians and physicists of all time and among the most influential scientists. He was a key figure in the philosophical revolution known as the Enlightenment. </p>
+                            </blockquote>
+                        </div>
+                        <div class=" item">
+                            <div class="profile-circle" style="background-color: rgba(77,5,51,.2);">
+                                <img src="~/Content/pics/cat-2.jpg" class="img-circle" style="height: 100px; width: 100px;"  />
+                            </div>
+                            <blockquote>
+                                <p>Who Discovered Protons? The discovery of the proton is credited to Ernest Rutherford, who proved that the nucleus of the hydrogen atom (i.e. a proton) is present in the nuclei of all other atoms in the year 1917.</p>
+                            </blockquote>
+                        </div>
+                        <div class="item">
+                            <div class="profile-circle" style="background-color: rgba(145,169,216,.2);">
+                                <img src="~/Content/pics/cat-3.jpg" class="img-circle" style="height: 100px; width: 100px;"  />
+                            </div>
+                            <blockquote>
+                                <p> During the 1880s and '90s scientists searched cathode rays for the carrier of the electrical properties in matter. Their work culminated in the discovery by English physicist J.J. Thomson of the electron in 1897.</p>
+                            </blockquote>
+                        </div>
+                        <div class="item">
+                            <div class="profile-circle" style="background-color: rgba(77,5,51,.2);">
+                                <img src="~/Content/pics/cat-4.jpg"  class="img-circle" style="height: 100px; width: 100px;"  />
+                            </div>
+                            <blockquote>
+                                <p>Walmart Inc. is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores from the United States, headquartered in Bentonville, Arkansas.</p>
+                            </blockquote>
+                        </div>
+                        <div class="item">
+                            <div class="profile-circle" style="background-color: rgba(77,5,51,.2);">
+                                <img src="download.jpg" class="img-circle" style="height: 100px; width: 100px;">
+                            </div>
+                            <blockquote>
+                                <p>On February 4, 2004, a Harvard sophomore named Mark Zuckerberg launches The Facebook, a social media website he had built in order to connect Harvard students with one another. By the next day, over a thousand people had registered, and that was only the beginning.</p>
+                            </blockquote>
+                        </div>
+                        <div class="item">
+                            <div class="profile-circle" style="background-color: rgba(77,5,51,.2);">
+                                <img src="~/Content/pics/team-2.jpg" class="img-circle" style="height: 100px; width: 100px;">
+                            </div>
+                                      
+                            <blockquote>
+                                <p>WhatsApp was founded by Jan Koum and Brian Acton who had previously spent 20 years combined at Yahoo. WhatsApp joined Facebook in 2014, but continues to operate as a separate app with a laser focus on building a messaging service that works fast and reliably anywhere in the world.</p>
+                            </blockquote>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </div>
+
+    </div>
+</div>
+
+<hr style="border-color:lightcyan" />
+
+<section class="section_all bg-light" id="about">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="section_title_all text-center">
+                    <h2 class="font-weight-bold" style="color:black">Welcome To <span class="text-custom">Arcane Programming Infotech</span></h2>
+                    <p class="section_subtitle mx-auto text-muted">
+                        <br />Arcane programming infotech an ISO 9001:2015 Certified company. Arcane programming infotech is the one and only place providing in depth traning on all letest technologies and certification.
+                    </p>
+                    <div class="">
+                        <i class=""></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="col-sm-4">
+                        <h3 class="about_heading text-capitalize font-weight-bold mt-4" style="color:black">Arcane Programming Infotech (API)</h3>
+                        <p class="text-muted mt-3">API is a software development company and software development traning center. </p>
+                        <p class="text-muted mt-3"> Arcane Programming infotech an ISO 9001:2015 certified company, Arcane Programming Infotech is the one and only place providing in-depth traning onall letest technologies Arcane Programming infotech, management and cunsultants incluides either working IT professionals in IT industry. All of them are experienced id designing and development of software development in their respective domains. The traning in compeletly industry obtained. During the initial days of traning itself,tranees will get the knowledge  about the technologies and that they can get through any difficult interview or job.</p>
+                    </div>
+                    <div class="col-sm-8">
+                        <img src="~/Content/pics/cat-3.jpg"  style="height:30%;width:100%;" />
+                        @*<img src="~/Content/pics/about.jpg"  style="height:30%;width:100%;"/>*@
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mt-3">
+            <div class="col-lg-4">
+                <div class="about_content_box_all mt-3">
+                    <div class="about_detail text-center">
+                        <div class="about_icon">
+                            <i class="fa fa-pencil"></i>
+                        </div>
+                        <h5 class="text-dark text-capitalize mt-3 font-weight-bold">Professional Teachers</h5>
+                        <p class="edu_desc mt-3 mb-0 text-muted">In the Arcane Programming Infotech teachers have a lot of experience in different types of technologies.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="about_content_box_all mt-3">
+                    <div class="about_detail text-center">
+                        <div class="about_icon">
+                            <i class="fa fa-angellist"></i>
+                        </div>
+                        <h5 class="text-dark text-capitalize mt-3 font-weight-bold">100% Placement Records</h5>
+                        <p class="edu_desc mb-0 mt-3 text-muted">Arcane Programiing Infotech has a 100% placement records with the highest packges. </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="about_content_box_all mt-3">
+                    <div class="about_detail text-center">
+                        <div class="about_icon">
+                            <i class="fa fa-paper-plane"></i>
+                        </div>
+                        <h5 class="text-dark text-capitalize mt-3 font-weight-bold">Best Platform </h5>
+                        <p class="edu_desc mb-0 mt-3 text-muted">Arcane Programming Infotech is the best learning platform for ASP.Net with MVC and other technologies.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+ 
+</section>
+
+    <!-- About Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="row g-5">
+            <div class="col-lg-7 wow fadeInUp" data-wow-delay="0.1s" style="min-height: 400px;">
+                <div class="position-relative h-100">
+                    <img class="img-fluid position-absolute w-100 h-100" src="img/about.jpg" alt="" style="object-fit: cover;">
+                    <img src="~/Content/pics/cat-2.jpg" style="height:30%;width:100%;"/>
+                </div>
+            </div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <div class="col-lg-5 wow fadeInUp" data-wow-delay="0.3s">
+                <h6 class="section-title bg-white text-start text-primary pe-3"></h6>
+                <h1 class="mb-4">Welcome To API</h1>
+                <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
+                <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                <div class="row gy-2 gx-4 mb-4">
+                    <div class="col-sm-6">
+                        <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>Skilled Instructors</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>Online Classes</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>Offline Classes</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>Weekly Code Testing</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>Certificate Courses</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>Job Placment</p>
+                    </div>
+                </div>
+                <a class="btn btn-primary py-3 px-5 mt-2" href="">Read More</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- About End -->
+
+
+

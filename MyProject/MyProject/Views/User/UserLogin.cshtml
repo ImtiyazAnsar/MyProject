@@ -1,0 +1,155 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap-theme.min.css" rel="stylesheet" />
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script src="~/Scripts/Common.js?v=1.0"></script>
+   
+ <style>
+
+    #User {
+            background-image: url('../../Content/pics/laptop_cup_glasses_plant_114948_1920x1080.jpg');
+            background-position: center;
+            background-size: cover;
+            opacity: 0.7;
+            color: white;
+        }
+::selection{
+  background: rgba(26,188,156,0.3);
+}
+     .container {
+         max-width: 440px;
+         padding: 0 20px;
+         margin: 170px auto;
+         margin-top:0%;
+
+     }
+.wrapper .title{
+  height: 50px;
+  /*background: #16a085;*/
+  border-radius: 5px 5px 0 0;
+  color: #fff;
+  font-size: 30px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapper form{
+    margin-top:15%;
+    border:2px solid lightgrey;
+  padding: 30px 25px 25px 25px;
+}
+.wrapper form .row{
+  height: 35px;
+  margin-bottom: 15px;
+  position: relative;
+}
+.wrapper form .row input{
+  height: 100%;
+  width: 85%;
+  outline: none;
+  padding-left: 60px;
+  border-radius: 5px;
+  border: 1px solid lightgrey;
+  font-size: 16px;
+  transition: all 0.3s ease;
+}
+form .row input:focus{
+  border-color: #000000;
+  box-shadow: inset 0px 0px 2px 2px rgba(26,188,156,0.25);
+}
+/*form .row input::placeholder{
+  color: #999;
+}*/
+.wrapper form .row i{
+  position: absolute;
+  width: 47px;
+  height: 100%;
+  color: #fff;
+  font-size: 18px;
+  background: #808080;
+  border-radius: 5px 0 0 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapper form .pass{
+  margin: -8px 0 20px 0;
+}
+.wrapper form .pass a{
+  color: black;
+  font-size: 17px;
+  text-decoration: none;
+}
+.wrapper form .pass a:hover{
+  text-decoration: underline;
+}
+.wrapper form .button input{
+  color: #fff;
+  font-size: 20px;
+  font-weight: 500;
+  padding-left: 0px;
+  background: #16a086;
+  border: 1px solid #16a085;
+  cursor: pointer;
+}
+form .button input:hover{
+  background: #12876f;
+}
+.wrapper form .signup-link{
+  /*text-align: center;*/
+  margin-top: 20px;
+  font-size: 17px;
+}
+.wrapper form .signup-link a{
+  color:black;
+  text-decoration: none;
+}
+form .signup-link a:hover{
+  text-decoration: underline;
+}
+</style>
+
+</head>
+
+<body>
+
+    <div class="container-fluid" id="User" style="min-height:570px;">   
+            <div class="container">
+                <div class="wrapper">
+                    <div class="title"><span></span></div>
+                    <form action="/User/UserLogin" method="post">
+                        <div class="title"><span>Login Here</span></div><br />
+                        <div class="row">
+                            <i class="fa fa-user"></i>
+                            <input type="text" name="Email" placeholder="Email" required>
+                        </div>
+                        <div class="row">
+                            <i class="fa fa-lock"></i>
+                            <input type="password" name="Password" placeholder="Password" required>
+                        </div>
+                        <div class="pass"><a href="#">Forgot password?</a></div>
+                        <div class="row button">
+                            <input type="submit" value="Login">
+                        </div>
+                        <div class="signup-link">Not a member? <a href="/User/UserRegistration">Registration now</a></div>
+                    </form>
+                    <br /><br />
+                </div>
+            </div>
+    </div>
+
+</body>
+</html>

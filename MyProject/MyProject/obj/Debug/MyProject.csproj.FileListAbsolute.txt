@@ -1,0 +1,280 @@
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\roslyn\csc.exe
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\roslyn\vbc.exe
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\MyProject.dll.config
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\MyProject.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\MyProject.pdb
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Antlr3.Runtime.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\EntityFramework.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Newtonsoft.Json.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Owin.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\System.Web.Helpers.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\System.Web.Mvc.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\System.Web.Optimization.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\System.Web.Razor.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\System.Web.WebPages.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\WebGrease.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\System.Web.Helpers.xml
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\System.Web.Mvc.xml
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\System.Web.Optimization.xml
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\System.Web.Razor.xml
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\System.Web.WebPages.xml
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Antlr3.Runtime.pdb
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Newtonsoft.Json.xml
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\EntityFramework.xml
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.xml
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\obj\Debug\MyProject.dll
+C:\Users\Imtiyaz\Desktop\Code 2019\MyProject\MyProject\obj\Debug\MyProject.pdb
+F:\Code 2019\MyProject\MyProject\bin\roslyn\csc.exe
+F:\Code 2019\MyProject\MyProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Code 2019\MyProject\MyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Code 2019\MyProject\MyProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Code 2019\MyProject\MyProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Code 2019\MyProject\MyProject\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Code 2019\MyProject\MyProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Code 2019\MyProject\MyProject\bin\roslyn\System.Collections.Immutable.dll
+F:\Code 2019\MyProject\MyProject\bin\roslyn\System.Reflection.Metadata.dll
+F:\Code 2019\MyProject\MyProject\bin\roslyn\vbc.exe
+F:\Code 2019\MyProject\MyProject\bin\roslyn\VBCSCompiler.exe
+F:\Code 2019\MyProject\MyProject\bin\roslyn\VBCSCompiler.exe.config
+F:\Code 2019\MyProject\MyProject\bin\MyProject.dll.config
+F:\Code 2019\MyProject\MyProject\bin\MyProject.dll
+F:\Code 2019\MyProject\MyProject\bin\MyProject.pdb
+F:\Code 2019\MyProject\MyProject\bin\Antlr3.Runtime.dll
+F:\Code 2019\MyProject\MyProject\bin\EntityFramework.dll
+F:\Code 2019\MyProject\MyProject\bin\EntityFramework.SqlServer.dll
+F:\Code 2019\MyProject\MyProject\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Code 2019\MyProject\MyProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Code 2019\MyProject\MyProject\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Code 2019\MyProject\MyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.dll
+F:\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.dll
+F:\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.Google.dll
+F:\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Code 2019\MyProject\MyProject\bin\Microsoft.Web.Infrastructure.dll
+F:\Code 2019\MyProject\MyProject\bin\Newtonsoft.Json.dll
+F:\Code 2019\MyProject\MyProject\bin\Owin.dll
+F:\Code 2019\MyProject\MyProject\bin\System.Web.Helpers.dll
+F:\Code 2019\MyProject\MyProject\bin\System.Web.Mvc.dll
+F:\Code 2019\MyProject\MyProject\bin\System.Web.Optimization.dll
+F:\Code 2019\MyProject\MyProject\bin\System.Web.Razor.dll
+F:\Code 2019\MyProject\MyProject\bin\System.Web.WebPages.Deployment.dll
+F:\Code 2019\MyProject\MyProject\bin\System.Web.WebPages.dll
+F:\Code 2019\MyProject\MyProject\bin\System.Web.WebPages.Razor.dll
+F:\Code 2019\MyProject\MyProject\bin\WebGrease.dll
+F:\Code 2019\MyProject\MyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Code 2019\MyProject\MyProject\bin\System.Web.Helpers.xml
+F:\Code 2019\MyProject\MyProject\bin\System.Web.Mvc.xml
+F:\Code 2019\MyProject\MyProject\bin\System.Web.Optimization.xml
+F:\Code 2019\MyProject\MyProject\bin\System.Web.Razor.xml
+F:\Code 2019\MyProject\MyProject\bin\System.Web.WebPages.xml
+F:\Code 2019\MyProject\MyProject\bin\System.Web.WebPages.Deployment.xml
+F:\Code 2019\MyProject\MyProject\bin\System.Web.WebPages.Razor.xml
+F:\Code 2019\MyProject\MyProject\bin\Antlr3.Runtime.pdb
+F:\Code 2019\MyProject\MyProject\bin\Newtonsoft.Json.xml
+F:\Code 2019\MyProject\MyProject\bin\EntityFramework.xml
+F:\Code 2019\MyProject\MyProject\bin\EntityFramework.SqlServer.xml
+F:\Code 2019\MyProject\MyProject\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Code 2019\MyProject\MyProject\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Code 2019\MyProject\MyProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.xml
+F:\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.xml
+F:\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.Google.xml
+F:\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Code 2019\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+F:\Code 2019\MyProject\MyProject\obj\Debug\MyProject.dll
+F:\Code 2019\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\roslyn\csc.exe
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\roslyn\vbc.exe
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\MyProject.dll.config
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\MyProject.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\MyProject.pdb
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Antlr3.Runtime.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\EntityFramework.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\EntityFramework.SqlServer.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Newtonsoft.Json.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Owin.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\System.Web.Helpers.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\System.Web.Mvc.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\System.Web.Optimization.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\System.Web.Razor.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\System.Web.WebPages.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\WebGrease.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\System.Web.Helpers.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\System.Web.Mvc.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\System.Web.Optimization.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\System.Web.Razor.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\System.Web.WebPages.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Antlr3.Runtime.pdb
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Newtonsoft.Json.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\EntityFramework.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\EntityFramework.SqlServer.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\obj\Debug\MyProject.csproj.AssemblyReference.cache
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\obj\Debug\MyProject.csproj.CopyComplete
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\obj\Debug\MyProject.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Code 2019\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\roslyn\csc.exe
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\roslyn\vbc.exe
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\MyProject.dll.config
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\MyProject.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\MyProject.pdb
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Antlr3.Runtime.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\EntityFramework.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\EntityFramework.SqlServer.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Microsoft.Owin.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Microsoft.Owin.Security.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Newtonsoft.Json.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Owin.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\System.Web.Helpers.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\System.Web.Mvc.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\System.Web.Optimization.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\System.Web.Razor.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\System.Web.WebPages.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\WebGrease.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\System.Web.Helpers.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\System.Web.Mvc.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\System.Web.Optimization.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\System.Web.Razor.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\System.Web.WebPages.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Antlr3.Runtime.pdb
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Newtonsoft.Json.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\EntityFramework.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\EntityFramework.SqlServer.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Microsoft.Owin.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Microsoft.Owin.Security.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\obj\Debug\MyProject.csproj.AssemblyReference.cache
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\obj\Debug\MyProject.csproj.CopyComplete
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\obj\Debug\MyProject.dll
+C:\Users\IMTIYAZ ANSARI\Desktop\Imtiyaz Ansari\MyProject\MyProject\obj\Debug\MyProject.pdb

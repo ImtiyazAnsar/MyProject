@@ -1,0 +1,169 @@
+﻿
+@{
+    Layout = null;
+}
+
+@using MyProject.Models;
+@using System.Data;
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>UserRegistration</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap-theme.min.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/Common.js?v=1.0"></script>
+
+</head>
+<body>
+     
+    <div class="container-fluid" style="border-radius:10px;border:2px solid black;background-color:lightcyan">
+        <h1 style="text-align:center;font-size:32px">New Registration Here</h1><hr />
+        <br />
+        @using (Html.BeginForm("ExportToExele", "User", FormMethod.Post))
+        {
+            @*<form method="post" action="/Home/CityMaster" id="form">*@
+                <div class="row">
+                <div class="col-sm-12">
+
+                    <input type="hidden" id="Id" value="0" />
+
+                    <div class="col-sm-4">
+                        <label>Select Country</label><span style="color:red"> *</span>
+                        <Select class="form-control" id="CountryName">
+                            <option value=''>---------Select Country--------</option>
+                            @{
+                                DataTable dt = Common.ExecuteProcedure("SelectCountry");
+                                if (dt.Rows.Count > 0)
+                                {
+                                    for (int i = 0; i < dt.Rows.Count; i++)
+                                    {
+                                        <option value="@dt.Rows[i]["CountryName"]">@dt.Rows[i]["CountryName"]</option>
+                                    }
+                                }
+                            }
+                        </Select>
+                        <div id="dv1" style="color:red;display:none">please Select Country</div>
+
+                    </div>
+                    <div class="col-sm-4">
+                        <label>Select State</label><span style="color:red"> *</span>
+                        <Select class="form-control" id="StateName">
+                            <option value="">---------Select --------</option>
+
+                        </Select>
+                        <div id="dv2" style="color:red;display:none">please Select State</div>
+
+                    </div>
+
+                    <div class="col-sm-4">
+                        <label>City Name</label><span style="color:red"> *</span>
+                        <input type="text" class="form-control" id="CityName" placeholder="Please Enter City Name" />
+                        <div id="dv3" style="color:red;display:none">please Enter Your City Name</div>
+                    </div>
+                </div><br /><br />
+            </div>
+
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="col-sm-4">
+                            <label>Name</label><span style="color:red"> *</span>
+                            <input type="text" class="form-control" id="Name" placeholder="Please Enter Your Name" />
+                            <div id="dv4" style="color:red;display:none">Please Enter Your Name</div>
+                        </div>
+
+                        <div class="col-sm-4">
+                            <label>Father Name</label><span style="color:red"> *</span>
+                            <input type="text" class="form-control" id="FatherName" name="FatherName" placeholder="Please Enter Your Father Name" />
+                            <div id="dv5" style="color:red;display:none">Please Enter Your Father Name</div>
+
+                        </div>
+
+                        <div class="col-sm-4">
+                            <label>Mother Name</label><span style="color:red"> *</span>
+                            <input type="text" class="form-control" id="MotherName" name="MotherName" placeholder="Please Enter Your Mother Name"  />
+                            <div id="dv6" style="color:red;display:none">Please Enter Mother Name</div>
+                        </div>
+                        <br /><br />
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="col-sm-4">
+                            <label>Address</label><span style="color:red"> *</span>
+                            <input type="text" class="form-control" id="Address" name="Address" placeholder="Please Enter Your Addres" />
+                            <div id="dv7" style="color:red;display:none">Please Enter Your Password</div>
+                        </div>
+                        <div class="col-sm-4">
+                            <label>Number</label><span style="color:red"> *</span>
+                            <input type="text" class="form-control" id="Number" name="Number" maxlength="10" placeholder="Please Enter Your Number" />
+                            <div id="dv8" style="color:red;display:none;">Please Enter Your Number</div>
+                        </div>
+                        <div class="col-sm-4">
+                            <label>Email</label><span style="color:red"> *</span>
+                            <input type="email" class="form-control" id="Email" name="Email" placeholder="Please Enter Your Email" />
+                            <div id="dv9" style="color:red;display:none">Please Enter Your Email</div>
+                        </div>
+                       <br /><br />
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="col-sm-4">
+                            <label>Password</label><span style="color:red"> *</span>
+                            <input type="password" class="form-control" id="Password" name="Password" placeholder="Please Enter Your Password" />
+                            <div id="dv10" style="color:red;display:none">Please Enter Your Password</div>
+                        </div>
+                        <div class="col-sm-4">
+                            <label>Select DOB</label><span style="color:red">*</span>
+                            <input type="date" class="form-control" id="DOB"  name="DOB" placeholder="Please select your DOB" />
+                            <div id="dv11" style="color:red;display:none;">Pelase fill your DOB</div>
+                        </div>
+                        <div class="col-sm-4" style="margin-top:32px;">
+                            <label> Gender</label><span style="color:red"> *</span>
+                            Male
+                            <input type="radio" name="Gender"  id="male" value="Male"/>&nbsp;&nbsp;&nbsp;&nbsp;
+                            Female
+                            <input type="radio" name="Gender"  id="female" value="Female" />&nbsp;&nbsp;&nbsp;&nbsp;
+                            <div id="dv12" style="color:red;display:none;">Pelase Select Your Gender</div>
+                        </div>
+                        
+
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-sm-12">
+
+                        <div class="col-sm-4">
+                                <label style="margin-top:7%;">IsActive</label>
+                                <input type="checkbox" id="IsActive" value="Yes" />&nbsp;&nbsp;&nbsp;&nbsp;
+                                <input type="button" value="Submit" id="Submit" class="btn-success" />&nbsp;&nbsp;
+                                <input type="button" value="Reset" id="Reset" class="btn-danger" />
+                            </div>
+
+                    </div>
+                </div>
+                <br />
+                @*</form>*@
+                                }
+
+    </div>
+    <br />
+  
+            <div class="container-fluid" style="background-color:palegoldenrod;border:2px solid black">
+                <h2 style="text-align:center;font-size:30px;">All Records Show</h2><hr />
+                <div id="dvGrid1" style="width:99%;overflow:auto;"></div>
+            </div>
+         
+</body>
+</html>
